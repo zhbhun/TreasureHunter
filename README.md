@@ -1,2 +1,4 @@
-# TreasureHunter
-淘金者，H5 小游戏
+Treasure Hunter
+========
+
+- [Pixi.js](./packages/treasure-hunter-pixi)

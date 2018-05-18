@@ -1,0 +1,9 @@
+{
+  "extends": "ease-base",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-param-reassign": "off"
+  }
+}
